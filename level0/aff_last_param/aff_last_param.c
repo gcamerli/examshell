@@ -19,7 +19,7 @@ char	ft_last_param(char *str)
 	return (0);
 }
 
-int		main(int argc, char **argv)
+int	main(int argc, char **argv)
 {
 	int i;
 

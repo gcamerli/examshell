@@ -19,7 +19,7 @@ char	ft_first_param(char *str)
 	return (0);
 }
 
-int		main(int argc, char **argv)
+int	main(int argc, char **argv)
 {
 	if (argc >= 2)
 		ft_first_param(argv[1]);
