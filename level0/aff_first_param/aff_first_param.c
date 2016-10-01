@@ -16,7 +16,6 @@ char	ft_first_param(char *str)
 		i++;
 	}
 	ft_putchar('\n');
-	return (0);
 }
 
 int	main(int argc, char **argv)
