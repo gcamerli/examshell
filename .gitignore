@@ -1,0 +1,20 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.obj
+
+# Linker output
+*.map
+
+# Precompiled Headers
+*.gch
+
+# Libraries
+*.lib
+*.a
+*.la
+
+# Executables
+*.out
