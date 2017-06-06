@@ -22,7 +22,7 @@ Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
 
 ### **Credits**
 
-Each level was designed by **42** staff. Solutions are mine.
+Each level was designed by **Staff 42**. Solutions are mine.
 
 ### **CC License**
 
