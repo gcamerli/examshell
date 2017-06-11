@@ -16,13 +16,11 @@ char	ft_last_param(char *str)
 		i++;
 	}
 	ft_putchar('\n');
+	return (*str);
 }
 
 int	main(int argc, char **argv)
 {
-	int i;
-
-	i = 0;
 	if (argc < 2)
 		ft_putchar('\n');
 	else
