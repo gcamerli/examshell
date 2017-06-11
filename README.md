@@ -8,7 +8,7 @@ This project is based on **examshell** levels.
 
 ![Level 0](images/level_0.png)
 
-| Program             |        Status       |
+| Subject             |        Status       |
 |---------------------|---------------------|
 | **aff_a**           | :red_circle:        |
 | **aff_first_param** | :white_check_mark:  |
@@ -20,7 +20,7 @@ This project is based on **examshell** levels.
 
 ![Level 1](images/level_1.png)
 
-| Program                |        Status       |
+| Subject                |        Status       |
 |------------------------|---------------------|
 | **first_word**         |                     |
 | **ft_countdown**       |                     |
