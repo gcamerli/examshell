@@ -8,13 +8,35 @@ This project is based on **examshell** levels.
 
 ![Level 0](images/level_0.png)
 
-+ **aff_a**
-+ **aff_first_param**
-+ **aff_last_param**
-+ **aff_z**
-+ **maff_alpha**
-+ **only_z**
-+ **strlen_sh**
+| Program             |        Status       |
+|---------------------|---------------------|
+| **aff_a**           | :red_circle:        |
+| **aff_first_param** | :white_check_mark:  |
+| **aff_last_param**  | :white_check_mark:  |
+| **aff_z**           | :white_check_mark:  |
+| **maff_alpha**      | :white_check_mark:  |
+| **only_z**          | :white_check_mark:  |
+| **strlen_sh**       | :white_check_mark:  |
+
+![Level 1](images/level_1.png)
+
+| Program                |        Status       |
+|------------------------|---------------------|
+| **first_word**         |                     |
+| **ft_countdown**       |                     |
+| **ft_print_numbers**   |                     |
+| **ft_putstr**          |                     |
+| **ft_strcpy**          |                     |
+| **ft_strlen**          |                     |
+| **ft_swap**            |                     |
+| **hello**              |                     |
+| **repeat_alpha**       |                     |
+| **rev_print**          |                     |
+| **rot_13**             |                     |
+| **rotone**             |                     |
+| **search_and_replace** |                     |
+| **ulstr**              |                     |
+
 
 ### **Note**
 
