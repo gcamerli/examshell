@@ -32,10 +32,10 @@ This project is based on **examshell** levels.
 | **hello**              | :white_check_mark:  |
 | **repeat_alpha**       | :white_check_mark:  |
 | **rev_print**          | :white_check_mark:  |
-| **rot_13**             |                     |
-| **rotone**             |                     |
-| **search_and_replace** |                     |
-| **ulstr**              |                     |
+| **rot_13**             | :white_check_mark:  |
+| **rotone**             | :white_check_mark:  |
+| **search_and_replace** | :white_check_mark:  |
+| **ulstr**              | :white_check_mark:  |
 
 
 ### **Note**
