@@ -23,15 +23,15 @@ This project is based on **examshell** levels.
 | Subject                |        Status       |
 |------------------------|---------------------|
 | **first_word**         |                     |
-| **ft_countdown**       |                     |
-| **ft_print_numbers**   |                     |
-| **ft_putstr**          |                     |
+| **ft_countdown**       | :white_check_mark:  |
+| **ft_print_numbers**   | :white_check_mark:  |
+| **ft_putstr**          | :white_check_mark:  |
 | **ft_strcpy**          |                     |
-| **ft_strlen**          |                     |
-| **ft_swap**            |                     |
-| **hello**              |                     |
-| **repeat_alpha**       |                     |
-| **rev_print**          |                     |
+| **ft_strlen**          | :white_check_mark:  |
+| **ft_swap**            | :white_check_mark:  |
+| **hello**              | :white_check_mark:  |
+| **repeat_alpha**       | :white_check_mark:  |
+| **rev_print**          | :white_check_mark:  |
 | **rot_13**             |                     |
 | **rotone**             |                     |
 | **search_and_replace** |                     |
