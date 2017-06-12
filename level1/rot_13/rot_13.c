@@ -25,6 +25,7 @@ char	ft_rot_13(char *str)
 		i++;
 	}
 	ft_putchar('\n');
+	return (*str);
 }
 
 int	main(int argc, char **argv)
