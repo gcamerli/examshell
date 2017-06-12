@@ -37,6 +37,8 @@ This project is based on **examshell** levels.
 | **search_and_replace** | :white_check_mark:  |
 | **ulstr**              | :white_check_mark:  |
 
+![Level 2](images/level_2.png)
+
 
 ### **Note**
 
