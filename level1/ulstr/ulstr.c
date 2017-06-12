@@ -21,6 +21,7 @@ char	ft_ulstr(char *str)
 		i++;
 	}
 	ft_putchar('\n');
+	return (*str);
 }
 
 int	main(int argc, char **argv)
