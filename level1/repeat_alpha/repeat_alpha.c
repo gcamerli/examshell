@@ -32,9 +32,12 @@ char	ft_repeat_alpha(char *str)
 				j--;
 			}
 		}
+		else
+			ft_putchar(str[i]);
 		i++;
 	}
 	ft_putchar('\n');
+	return (*str);
 }
 
 int	main(int argc, char **argv)
