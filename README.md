@@ -22,11 +22,11 @@ This project is based on **examshell** levels.
 
 | Subject                |        Status       |
 |------------------------|---------------------|
-| **first_word**         |                     |
+| **first_word**         | :white_check_mark:  |
 | **ft_countdown**       | :white_check_mark:  |
 | **ft_print_numbers**   | :white_check_mark:  |
 | **ft_putstr**          | :white_check_mark:  |
-| **ft_strcpy**          |                     |
+| **ft_strcpy**          | :white_check_mark:  |
 | **ft_strlen**          | :white_check_mark:  |
 | **ft_swap**            | :white_check_mark:  |
 | **hello**              | :white_check_mark:  |
