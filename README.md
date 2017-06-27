@@ -43,9 +43,10 @@ This project is based on **examshell** levels.
 |--------------------|---------------------|
 | **alpha_mirror**   | :white_check_mark:  |
 | **do_op**          |                     |
-| **ft_atoi**        |                     |
+| **ft_atoi**        | :white_check_mark:  |
+| **ft_strcmp**      | :white_check_mark:  |
 | **ft_strdup**      |                     |
-| **ft_strrev**      |                     |
+| **ft_strrev**      | :white_check_mark:  |
 | **inter**          |                     |
 | **last_word**      |                     |
 | **max**            |                     |
