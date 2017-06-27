@@ -7,15 +7,19 @@ void	ft_putchar(char c)
 
 void	ft_search_and_replace(char *str, char a, char b)
 {
-	int i;
+	int	i;
 
 	i = 0;
 	while (str[i] != '\0')
 	{
 		if (str[i] == a)
+		{
 			ft_putchar(b);
+		}
 		else
+		{
 			ft_putchar(str[i]);
+		}
 		i++;
 	}
 }

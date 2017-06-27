@@ -2,7 +2,7 @@
 
 int	main(void)
 {
-	char c;
+	char	c;
 
 	c = '9';
 	while (c >= '0')

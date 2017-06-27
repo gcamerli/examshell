@@ -33,7 +33,9 @@ char	ft_repeat_alpha(char *str)
 			}
 		}
 		else
+		{
 			ft_putchar(str[i]);
+		}
 		i++;
 	}
 	ft_putchar('\n');
@@ -43,8 +45,12 @@ char	ft_repeat_alpha(char *str)
 int	main(int argc, char **argv)
 {
 	if (argc == 2)
+	{
 		ft_repeat_alpha(argv[1]);
+	}
 	else
+	{
 		ft_putchar('\n');
+	}
 	return (0);
 }
