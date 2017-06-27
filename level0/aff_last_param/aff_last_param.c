@@ -7,7 +7,7 @@ void	ft_putchar(char c)
 
 char	ft_last_param(char *str)
 {
-	int i;
+	int	i;
 
 	i = 0;
 	while (str[i] != '\0')
@@ -22,8 +22,12 @@ char	ft_last_param(char *str)
 int	main(int argc, char **argv)
 {
 	if (argc < 2)
+	{
 		ft_putchar('\n');
+	}
 	else
+	{
 		ft_last_param(argv[argc - 1]);
+	}
 	return (0);
 }

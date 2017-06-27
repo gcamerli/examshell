@@ -7,7 +7,7 @@ void	ft_putchar(char c)
 
 int	main(void)
 {
-	int		i;
+	int	i;
 	char	low;
 	char	up;
 
