@@ -10,7 +10,7 @@ This project is based on **examshell** levels.
 
 | Subject             |        Status       |
 |---------------------|---------------------|
-| **aff_a**           | :red_circle:        |
+| **aff_a**           | :white_check_mark:  |
 | **aff_first_param** | :white_check_mark:  |
 | **aff_last_param**  | :white_check_mark:  |
 | **aff_z**           | :white_check_mark:  |
@@ -39,6 +39,21 @@ This project is based on **examshell** levels.
 
 ![Level 2](images/level_2.png)
 
+| Subject            |        Status       |
+|--------------------|---------------------|
+| **alpha_mirror**   | :white_check_mark:  |
+| **do_op**          |                     |
+| **ft_atoi**        |                     |
+| **ft_strdup**      |                     |
+| **ft_strrev**      |                     |
+| **inter**          |                     |
+| **last_word**      |                     |
+| **max**            |                     |
+| **print_bits**     |                     |
+| **reverse_bits**   |                     |
+| **swap_bits**      |                     |
+| **union**          |                     |
+| **wdmatch**        |                     |
 
 ### **Note**
 
