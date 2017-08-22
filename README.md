@@ -22,7 +22,7 @@ This project is based on **examshell** levels.
 
 | Subject                |        Status       |
 |------------------------|---------------------|
-| **first_word**         | :white_check_mark:  |
+| **first_word**         | :red_circle:        |
 | **ft_countdown**       | :white_check_mark:  |
 | **ft_print_numbers**   | :white_check_mark:  |
 | **ft_putstr**          | :white_check_mark:  |
@@ -60,6 +60,47 @@ This is a **gift** for you, after **level 1** you have to swim on your own ;)
 | **union**          |
 | **wdmatch**        |
 
+![Level 3](images/level_3.png)
+
+| Subject              |
+|----------------------|
+| **add_prime_sum**    |
+| **epur_str**         |
+| **expand_str**       |
+| **ft_atoi_base**     |
+| **ft_list_size**     |
+| **ft_range**         |
+| **ft_rrange**        |
+| **hidenp**           |
+| **paramsum**         |
+| **pgcd**             |
+| **print_hex**        |
+| **rstr_capitalizer** |
+| **str_capitalizer**  |
+| **tab_mult**         |
+
+![Level 4](images/level_4.png)
+
+| Subject               |
+|-----------------------|
+| **fprime**            |
+| **ft_itoa**           |
+| **ft_list_foreach**   |
+| **ft_list_remove_if** |
+| **ft_split**          |
+| **rev_wstr**          |
+| **rostring**          |
+| **sort_int_tab**      |
+| **sort_list**         |
+
+![Level 5](images/level_5.png)
+
+| Subject            |
+|--------------------|
+| **brainfuck**      |
+| **ft_itoa_base**   |
+| **print_memory**   |
+
 ### **Note**
 
 Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
@@ -67,8 +108,6 @@ Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
 ### **Credits**
 
 Each level was designed by **Staff 42**. Solutions are mine.
-
-If you want to access to the **full repo**, contact me in **[private](mailto:gicamerl@student.42.fr)**.
 
 ### **CC License**
 
