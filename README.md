@@ -1,6 +1,6 @@
 # **Exam shell**
 
-42 Piscine (Paris | September 2016)
+42 Piscine (Paris)
 
 ### **Description**
 
@@ -37,24 +37,28 @@ This project is based on **examshell** levels.
 | **search_and_replace** | :white_check_mark:  |
 | **ulstr**              | :white_check_mark:  |
 
+This is a **gift** for you, after **level 1** you have to swim on your own ;)
+
+***
+
 ![Level 2](images/level_2.png)
 
-| Subject            |        Status       |
-|--------------------|---------------------|
-| **alpha_mirror**   | :white_check_mark:  |
-| **do_op**          |                     |
-| **ft_atoi**        | :white_check_mark:  |
-| **ft_strcmp**      | :white_check_mark:  |
-| **ft_strdup**      |                     |
-| **ft_strrev**      | :white_check_mark:  |
-| **inter**          |                     |
-| **last_word**      |                     |
-| **max**            |                     |
-| **print_bits**     |                     |
-| **reverse_bits**   |                     |
-| **swap_bits**      |                     |
-| **union**          |                     |
-| **wdmatch**        |                     |
+| Subject            |
+|--------------------|
+| **alpha_mirror**   |
+| **do_op**          |
+| **ft_atoi**        |
+| **ft_strcmp**      |
+| **ft_strdup**      |
+| **ft_strrev**      |
+| **inter**          |
+| **last_word**      |
+| **max**            |
+| **print_bits**     |
+| **reverse_bits**   |
+| **swap_bits**      |
+| **union**          |
+| **wdmatch**        |
 
 ### **Note**
 
@@ -63,6 +67,8 @@ Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
 ### **Credits**
 
 Each level was designed by **Staff 42**. Solutions are mine.
+
+If you want to access to the **full repo**, contact me in **[private](mailto:gicamerl@student.42.fr)**.
 
 ### **CC License**
 
