@@ -24,7 +24,7 @@ void	ft_search_and_replace(char *str, char a, char b)
 	}
 }
 
-int	main(int argc, char **argv)
+int		main(int argc, char **argv)
 {
 	if (argc == 4)
 	{

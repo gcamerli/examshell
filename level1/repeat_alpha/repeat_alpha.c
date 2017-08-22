@@ -23,7 +23,7 @@ char	ft_repeat_alpha(char *str)
 				j--;
 			}
 		}
-		if (str[i] >= 'a' && str[i] <= 'z')
+		else if (str[i] >= 'a' && str[i] <= 'z')
 		{
 			j = str[i] - 97;
 			while (j >= 0)
@@ -42,7 +42,7 @@ char	ft_repeat_alpha(char *str)
 	return (*str);
 }
 
-int	main(int argc, char **argv)
+int		main(int argc, char **argv)
 {
 	if (argc == 2)
 	{

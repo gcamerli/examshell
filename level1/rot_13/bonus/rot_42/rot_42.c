@@ -38,7 +38,7 @@ char	ft_rot_42(char *str)
 	return (*str);
 }
 
-int	main(int argc, char **argv)
+int		main(int argc, char **argv)
 {
 	if (argc == 2)
 	{
