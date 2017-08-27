@@ -22,7 +22,7 @@ This project is based on **examshell** levels.
 
 | Subject                |        Status       |
 |------------------------|---------------------|
-| **first_word**         | :red_circle:        |
+| **first_word**         | :white_check_mark:  |
 | **ft_countdown**       | :white_check_mark:  |
 | **ft_print_numbers**   | :white_check_mark:  |
 | **ft_putstr**          | :white_check_mark:  |
