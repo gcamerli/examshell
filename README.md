@@ -15,6 +15,7 @@ This project is based on **examshell** levels.
 | **aff_last_param**  | :white_check_mark:  |
 | **aff_z**           | :white_check_mark:  |
 | **maff_alpha**      | :white_check_mark:  |
+| **maff_revalpha**   | :white_check_mark:  |
 | **only_z**          | :white_check_mark:  |
 | **strlen_sh**       | :white_check_mark:  |
 
@@ -97,9 +98,11 @@ This is a **gift** for you, after **level 1** you have to swim on your own ;)
 
 | Subject            |
 |--------------------|
+| **brackets**       |
 | **brainfuck**      |
 | **ft_itoa_base**   |
 | **print_memory**   |
+| **rpn_calc**       |
 
 ### **Note**
 
