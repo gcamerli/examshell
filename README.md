@@ -115,3 +115,9 @@ Each level was designed by **Staff 42**. Solutions are mine.
 ### **CC License**
 
 This work is provided under the terms of this license: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+
+### **Donations**
+
+Donations are accepted at:
+
++ **BTC**: 152pyNwPRr22XWYdTuyHormznzu4PvPrWg
