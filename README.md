@@ -104,17 +104,13 @@ This is a **gift** for you, after **level 1** you have to swim on your own ;)
 | **print_memory**   |
 | **rpn_calc**       |
 
-### **Note**
-
-Cheaters are strictly punished at **42**, so use wisely all this stuff. ;)
-
 ### **Credits**
 
-Each level was designed by **Staff 42**. Solutions are mine.
+Each level was designed by **Staff 42**.
 
-### **CC License**
+### **License**
 
-This work is provided under the terms of this license: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+This work is licensed under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
 
 ### **Donations**
 
