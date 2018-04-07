@@ -53,6 +53,7 @@ This is a **gift** for you, after **level 1** you have to swim on your own ;)
 | **ft_strdup**      |
 | **ft_strrev**      |
 | **inter**          |
+| **is_power_of_2**  |
 | **last_word**      |
 | **max**            |
 | **print_bits**     |
@@ -73,6 +74,7 @@ This is a **gift** for you, after **level 1** you have to swim on your own ;)
 | **ft_range**         |
 | **ft_rrange**        |
 | **hidenp**           |
+| **lcm**              |
 | **paramsum**         |
 | **pgcd**             |
 | **print_hex**        |
