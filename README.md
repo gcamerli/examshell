@@ -8,35 +8,35 @@ This project is based on **examshell** levels.
 
 ![Level 0](images/level_0.png)
 
-| Subject             |        Status       |
-|---------------------|---------------------|
-| **aff_a**           | :white_check_mark:  |
-| **aff_first_param** | :white_check_mark:  |
-| **aff_last_param**  | :white_check_mark:  |
-| **aff_z**           | :white_check_mark:  |
-| **maff_alpha**      | :white_check_mark:  |
-| **maff_revalpha**   | :white_check_mark:  |
-| **only_z**          | :white_check_mark:  |
-| **strlen_sh**       | :white_check_mark:  |
+| n | Subject             | Status             |
+|---|---------------------|--------------------|
+| 1 | **aff_a**           | :white_check_mark: |
+| 2 | **aff_first_param** | :white_check_mark: |
+| 3 | **aff_last_param**  | :white_check_mark: |
+| 4 | **aff_z**           | :white_check_mark: |
+| 5 | **maff_alpha**      | :white_check_mark: |
+| 6 | **maff_revalpha**   | :white_check_mark: |
+| 7 | **only_z**          | :white_check_mark: |
+| 8 | **strlen_sh**       | :white_check_mark: |
 
 ![Level 1](images/level_1.png)
 
-| Subject                |        Status       |
-|------------------------|---------------------|
-| **first_word**         | :white_check_mark:  |
-| **ft_countdown**       | :white_check_mark:  |
-| **ft_print_numbers**   | :white_check_mark:  |
-| **ft_putstr**          | :white_check_mark:  |
-| **ft_strcpy**          | :white_check_mark:  |
-| **ft_strlen**          | :white_check_mark:  |
-| **ft_swap**            | :white_check_mark:  |
-| **hello**              | :white_check_mark:  |
-| **repeat_alpha**       | :white_check_mark:  |
-| **rev_print**          | :white_check_mark:  |
-| **rot_13**             | :white_check_mark:  |
-| **rotone**             | :white_check_mark:  |
-| **search_and_replace** | :white_check_mark:  |
-| **ulstr**              | :white_check_mark:  |
+| n  | Subject                | Status             |
+|----|------------------------|--------------------|
+| 1  | **first_word**         | :white_check_mark: |
+| 2  | **ft_countdown**       | :white_check_mark: |
+| 3  | **ft_print_numbers**   | :white_check_mark: |
+| 4  | **ft_putstr**          | :white_check_mark: |
+| 5  | **ft_strcpy**          | :white_check_mark: |
+| 6  | **ft_strlen**          | :white_check_mark: |
+| 7  | **ft_swap**            | :white_check_mark: |
+| 8  | **hello**              | :white_check_mark: |
+| 9  | **repeat_alpha**       | :white_check_mark: |
+| 10 | **rev_print**          | :white_check_mark: |
+| 11 | **rot_13**             | :white_check_mark: |
+| 12 | **rotone**             | :white_check_mark: |
+| 13 | **search_and_replace** | :white_check_mark: |
+| 14 | **ulstr**              | :white_check_mark: |
 
 This is a **gift** for you, after **level 1** you have to swim on your own ;)
 
@@ -44,71 +44,72 @@ This is a **gift** for you, after **level 1** you have to swim on your own ;)
 
 ![Level 2](images/level_2.png)
 
-| Subject            |
-|--------------------|
-| **alpha_mirror**   |
-| **do_op**          |
-| **ft_atoi**        |
-| **ft_strcmp**      |
-| **ft_strdup**      |
-| **ft_strrev**      |
-| **inter**          |
-| **is_power_of_2**  |
-| **last_word**      |
-| **max**            |
-| **print_bits**     |
-| **reverse_bits**   |
-| **swap_bits**      |
-| **union**          |
-| **wdmatch**        |
+| n  | Subject            |
+|----|--------------------|
+| 1  | **alpha_mirror**   |
+| 2  | **do_op**          |
+| 3  | **ft_atoi**        |
+| 4  | **ft_strcmp**      |
+| 5  | **ft_strdup**      |
+| 6  | **ft_strrev**      |
+| 7  | **inter**          |
+| 8  | **is_power_of_2**  |
+| 9  | **last_word**      |
+| 10 | **max**            |
+| 11 | **print_bits**     |
+| 12 | **reverse_bits**   |
+| 13 | **swap_bits**      |
+| 14 | **union**          |
+| 15 | **wdmatch**        |
 
 ![Level 3](images/level_3.png)
 
-| Subject              |
-|----------------------|
-| **add_prime_sum**    |
-| **epur_str**         |
-| **expand_str**       |
-| **ft_atoi_base**     |
-| **ft_list_size**     |
-| **ft_range**         |
-| **ft_rrange**        |
-| **hidenp**           |
-| **lcm**              |
-| **paramsum**         |
-| **pgcd**             |
-| **print_hex**        |
-| **rstr_capitalizer** |
-| **str_capitalizer**  |
-| **tab_mult**         |
+| n  | Subject              |
+|----|----------------------|
+| 1  | **add_prime_sum**    |
+| 2  | **epur_str**         |
+| 3  | **expand_str**       |
+| 4  | **ft_atoi_base**     |
+| 5  | **ft_list_size**     |
+| 6  | **ft_range**         |
+| 7  | **ft_rrange**        |
+| 8  | **hidenp**           |
+| 9  | **lcm**              |
+| 10 | **paramsum**         |
+| 11 | **pgcd**             |
+| 12 | **print_hex**        |
+| 13 | **rstr_capitalizer** |
+| 14 | **str_capitalizer**  |
+| 15 | **tab_mult**         |
 
 ![Level 4](images/level_4.png)
 
-| Subject               |
-|-----------------------|
-| **fprime**            |
-| **ft_itoa**           |
-| **ft_list_foreach**   |
-| **ft_list_remove_if** |
-| **ft_split**          |
-| **rev_wstr**          |
-| **rostring**          |
-| **sort_int_tab**      |
-| **sort_list**         |
+| n  | Subject               |
+|----|-----------------------|
+| 1  | **check_mate**        |
+| 2  | **fprime**            |
+| 3  | **ft_itoa**           |
+| 4  | **ft_list_foreach**   |
+| 5  | **ft_list_remove_if** |
+| 6  | **ft_split**          |
+| 7  | **rev_wstr**          |
+| 8  | **rostring**          |
+| 9  | **sort_int_tab**      |
+| 10 | **sort_list**         |
 
 ![Level 5](images/level_5.png)
 
-| Subject            |
-|--------------------|
-| **brackets**       |
-| **brainfuck**      |
-| **ft_itoa_base**   |
-| **print_memory**   |
-| **rpn_calc**       |
+| n | Subject            |
+|---|--------------------|
+| 1 | **brackets**       |
+| 2 | **brainfuck**      |
+| 3 | **ft_itoa_base**   |
+| 4 | **print_memory**   |
+| 5 | **rpn_calc**       |
 
 ### **Credits**
 
-Each level was designed by **Staff 42**.
+Each level is designed by **Staff 42**.
 
 ### **License**
 
