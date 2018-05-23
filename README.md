@@ -86,16 +86,15 @@ This is a **gift** for you, after **level 1** you have to swim on your own ;)
 
 | n  | Subject               |
 |----|-----------------------|
-| 1  | **check_mate**        |
-| 2  | **fprime**            |
-| 3  | **ft_itoa**           |
-| 4  | **ft_list_foreach**   |
-| 5  | **ft_list_remove_if** |
-| 6  | **ft_split**          |
-| 7  | **rev_wstr**          |
-| 8  | **rostring**          |
-| 9  | **sort_int_tab**      |
-| 10 | **sort_list**         |
+| 1  | **fprime**            |
+| 2  | **ft_itoa**           |
+| 3  | **ft_list_foreach**   |
+| 4  | **ft_list_remove_if** |
+| 5  | **ft_split**          |
+| 6  | **rev_wstr**          |
+| 7  | **rostring**          |
+| 8  | **sort_int_tab**      |
+| 9  | **sort_list**         |
 
 ![Level 5](images/level_5.png)
 
@@ -103,9 +102,10 @@ This is a **gift** for you, after **level 1** you have to swim on your own ;)
 |---|--------------------|
 | 1 | **brackets**       |
 | 2 | **brainfuck**      |
-| 3 | **ft_itoa_base**   |
-| 4 | **print_memory**   |
-| 5 | **rpn_calc**       |
+| 3 | **check_mate**     |
+| 4 | **ft_itoa_base**   |
+| 5 | **print_memory**   |
+| 6 | **rpn_calc**       |
 
 ### **Credits**
 
