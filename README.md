@@ -104,8 +104,9 @@ This is a **gift** for you, after **level 1** you have to swim on your own ;)
 | 2 | **brainfuck**      |
 | 3 | **check_mate**     |
 | 4 | **ft_itoa_base**   |
-| 5 | **print_memory**   |
-| 6 | **rpn_calc**       |
+| 5 | **options**        |
+| 6 | **print_memory**   |
+| 7 | **rpn_calc**       |
 
 ### **Credits**
 
